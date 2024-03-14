@@ -31,7 +31,7 @@ Ici vous publierez le poster de votre projet.
         View in your space
     </button>
     <div id="ar-prompt">
-        <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+        <img src="https://modelviewer.dev/shared-assets/icons/joystick_prototype_v3.glb">
     </div>
 </model-viewer>
 
