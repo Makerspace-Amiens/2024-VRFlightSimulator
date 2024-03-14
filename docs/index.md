@@ -6,13 +6,14 @@ title: Accueil
 
 # Bienvenue sur notre site Projet Simulateur de Vol
 
-Bienvenue dans la documentation du projet XYZ. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+Bienvenue dans la documentation du projet de création de commandes de simulateur de vol. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre et utiliser notre projet.
 
 ![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/illustration.png)
 
 ## À propos du Projet
 
 Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
+Notre projet consiste à créer de A à Z des commandes de vol utilisables sur ordinateur sur des logiciels comme microsoft flight simulator, pour cela nous avons réalisé un joystick ainsi que des commandes de gaz permettant le controle précis et intuitif de differents aéronerf.
 
 ## Poster
 
@@ -20,7 +21,20 @@ Ici vous publierez le poster de votre projet.
 
 ## ![Poster projet](images/poster.jpg)
 
-<model-viewer src="joystick_prototype_v3.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1.03" environment-image="legacy" exposure="1" shadow-softness="1" tone-mapping="commerce"> </model-viewer>
+<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
+
+<model-viewer src="joystick_prototype_v3.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.webp" shadow-intensity="1">
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+    <button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+    <div id="ar-prompt">
+        <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+    </div>
+</model-viewer>
+
 
 
 
