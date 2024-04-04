@@ -14,7 +14,7 @@ Bienvenue dans la documentation du projet de création de commandes de simulateu
 
 Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
 Notre projet consiste à créer de A à Z des commandes de vol utilisables sur ordinateur sur des logiciels comme microsoft flight simulator, pour cela nous avons réalisé un joystick ainsi que des commandes de gaz permettant le controle précis et intuitif de differents aéronerf.
-
+&
 ## Poster
 
 Ici vous publierez le poster de votre projet.
@@ -23,17 +23,10 @@ Ici vous publierez le poster de votre projet.
 
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
 
-<model-viewer src="joystick_prototype_v3.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.webp" shadow-intensity="1">
-    <div class="progress-bar hide" slot="progress-bar">
-        <div class="update-bar"></div>
-    </div>
-    <button slot="ar-button" id="ar-button">
-        View in your space
-    </button>
-    <div id="ar-prompt">
-        <img src="https://modelviewer.dev/shared-assets/icons/joystick_prototype_v3.glb">
-    </div>
+<model-viewer src="../images/joystick.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="../images/poster.jpg" shadow-intensity="1">
+   
 </model-viewer>
+
 
 
 
