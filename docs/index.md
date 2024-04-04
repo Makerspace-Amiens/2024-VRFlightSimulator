@@ -23,7 +23,7 @@ Ici vous publierez le poster de votre projet.
 
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
 
-<model-viewer src="/images/joystick_prototype_v3.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="/images/poster.jpg" shadow-intensity="1">
+<model-viewer src="images/joystick_prototype_v3.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="images/poster.webp" shadow-intensity="1">
    
 </model-viewer>
 
