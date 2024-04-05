@@ -19,7 +19,7 @@ Notre projet consiste à créer de A à Z des commandes de vol utilisables sur o
 
 Ici vous publierez le poster de votre projet.
 
-## ![Poster projet](images/poster.jpg)
+## ![modélisation base du joystick](images/poster.jpg)
 
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
 
