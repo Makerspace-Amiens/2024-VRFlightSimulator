@@ -20,15 +20,19 @@ L'objectif du projet est de créer un simulateur.
 
 1. Spécifications Techniques des accessoires de commande :
 
-    .Joystick :
+    1.a Joystick :
 
-            -Détection de mouvement avec capteurs a effets hall
-            -Boutons programmables
-            -Hat switch
-            -D pad
-            -Gachette
-            -Corps imprimés en 3D / base en métal
+            Détection de mouvement avec capteurs a effets hall
+            Boutons programmables
+            Hat switch
+            D pad
+            Gachette
+            Corps imprimés en 3D / base en métal
 
-    Inspirations : 
+Inspirations : 
+
+![image d'inspiration](images/jo)
     
-     (/images/joystick_inspiration.png) 
+
+    
+ 
