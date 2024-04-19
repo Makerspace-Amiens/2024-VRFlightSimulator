@@ -12,14 +12,13 @@ Bienvenue dans la documentation du projet de création de commandes de simulateu
 
 ## À propos du Projet
 
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
 Notre projet consiste à créer de A à Z des commandes de vol utilisables sur ordinateur sur des logiciels comme microsoft flight simulator, pour cela nous avons réalisé un joystick ainsi que des commandes de gaz permettant le controle précis et intuitif de differents aéronerf.
-&
+
 ## Poster
 
 Ici vous publierez le poster de votre projet.
 
-## ![modélisation base du joystick](images/poster.jpg)
+## ![modélisation de la base du joystick](images/poster.jpg)
 
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
 

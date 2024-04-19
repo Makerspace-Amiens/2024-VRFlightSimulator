@@ -10,16 +10,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendi
 
 ## Contexte du Projet
 
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+Ce projet a été réalisé dans le cadre du projet que nous devons effectuer pendant notre 3ème année d'études au sein d'unilasalle Amiens.
 
 ## Objectifs du Projet
 
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede.
-
-# Existant
-
-Praesent blandit adipiscing velit. Suspendisse potenti. Donec mattis, pede vel pharetra blandit, magna ligula faucibus eros, id euismod lacus dolor eget odio.
+L'objectif du projet est de créer un simulateur.
 
 # Cahier des Charges
 
-Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
+1. Spécifications Techniques des accessoires de commande :
+
+    .Joystick :
+
+            -Détection de mouvement avec capteurs a effets hall
+            -Boutons programmables
+            -Hat switch
+            -D pad
+            -Gachette
+            -Corps imprimés en 3D / base en métal
+
+    Inspirations : 
+    
+     (/images/joystick_inspiration.png) 
