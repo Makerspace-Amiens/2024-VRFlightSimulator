@@ -31,7 +31,7 @@ L'objectif du projet est de créer un simulateur.
 
 Inspirations : 
 
-![image d'inspiration](images/jo)
+![image d'inspiration](images/joystick_inspiration.png)
     
 
     
