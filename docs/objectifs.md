@@ -14,7 +14,7 @@ Ce projet a été réalisé dans le cadre du projet que nous devons effectuer pe
 
 ## Objectifs du Projet
 
-L'objectif du projet est de créer un simulateur.
+L'objectif du projet est de créer un simulateur de vol.
 
 # Cahier des Charges
 
@@ -27,7 +27,7 @@ L'objectif du projet est de créer un simulateur.
             Hat switch
             D pad
             Gachette
-            Corps imprimés en 3D / base en métal
+            Corps imprimés en 3D 
 
 Inspirations : 
 

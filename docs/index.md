@@ -12,7 +12,7 @@ Bienvenue dans la documentation du projet de création de commandes de simulateu
 
 ## À propos du Projet
 
-Notre projet consiste à créer de A à Z des commandes de vol utilisables sur ordinateur sur des logiciels comme microsoft flight simulator, pour cela nous avons réalisé un joystick ainsi que des commandes de gaz permettant le controle précis et intuitif de differents aéronerf.
+Notre projet consiste à créer de A à Z des commandes de vol utilisables sur ordinateur sur des logiciels comme microsoft flight simulator, pour cela nous avons réalisé un joystick ainsi que des commandes de gaz permettant le controle précis et intuitif de différents aéronerf.
 
 ## Poster
 
