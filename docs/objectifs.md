@@ -6,7 +6,7 @@ title: Objectifs du projet
 
 # Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+
 
 ## Contexte du Projet
 
@@ -14,7 +14,8 @@ Ce projet a été réalisé dans le cadre du projet que nous devons effectuer pe
 
 ## Objectifs du Projet
 
-L'objectif du projet est de créer un simulateur de vol.
+
+L'objectif de notre projet est de créer un simulateur de vol.
 
 # Cahier des Charges
 
@@ -22,17 +23,33 @@ L'objectif du projet est de créer un simulateur de vol.
 
     1.a Joystick :
 
-            Détection de mouvement avec capteurs a effets hall
+            Détection de mouvements avec capteurs a effets hall
             Boutons programmables
             Hat switch
             D pad
             Gachette
-            Corps imprimés en 3D 
+            Corps et base imprimés en 3D 
+
 
 Inspirations : 
 
 ![image d'inspiration](images/joystick_inspiration.png)
-    
+
+    1.b commandes de gaz : 
+
+            detection de mouvements axe horizontal avec capteurs à effets hall
+            boutons programmables
+            retro éclairage boutons 
+
+Inspirations :
+
+## ![image d'inspiration](images/manettes_de_gaz.png)
+
+
+
+
+
+
 
     
  
