@@ -33,7 +33,7 @@ L'objectif de notre projet est de créer un simulateur de vol.
 
 Inspirations : 
 
-![image d'inspiration](images/joystick_inspiration.png)
+![image d'inspiration](images/joystick_inspiration_copy.png)
 
     1.b commandes de gaz : 
 
@@ -43,7 +43,7 @@ Inspirations :
 
 Inspirations :
 
-## ![image d'inspiration](images/manettes_de_gaz.png)
+![image d'inspiration](images/manettes_de_gaz.jpg)
 
 
 
