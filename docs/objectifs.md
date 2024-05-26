@@ -10,12 +10,31 @@ title: Objectifs du projet
 
 ## Contexte du Projet
 
-Ce projet a été réalisé dans le cadre du projet que nous devons effectuer pendant notre 3ème année d'études au sein d'unilasalle Amiens.
+Dans le cadre de notre projet de 3ème année au sein de l'école d'ingénieur UniLaSalle Amiens, 75h sont dédiées à la réalisation d'un projet permettant de mettre en œuvre et approfondir différentes connaissances acquises durant les années précédentes dans des domaines techniques tels que l'électronique, la modélisation ou encore la programmation mais également de développer des compétences personnelles tels que la gestion d'équipe ou le coworking.
+
+Certains membres de notre équipe ayant réalisé dans le cadre du projet d'Innovation Technologique et Eco-Concéption durant notre seconde année de cycle préparatoire, un volant type F1 fonctionnel dédié à l'utilisation en Sim Racing. Nous avons décidés de nous lancer une fois de plus dans la domaine de la simulation avec la réalisation d'un simulateur de vol. 
+
+Un projet similaire ayant été abandonné il y'a quelques années, le choix de ce projet a été d'autant plus motivant dans sa concrétisation tout en utilisant les nouvelles technologies qui sont aujourd'hui à notre disposition. C'est pourquoi nous nous sommes attardés sur la création d'un simulateur d'avion de chasse utilisable en Réalité Virtuelle.
+
 
 ## Objectifs du Projet
 
+Concevoir, construire et mettre en œuvre un simulateur de vol d'avion de chasse réaliste et immersif utilisable en réalité virtuelle, offrant une expérience utilisateur hautement satisfaisante.
 
-L'objectif de notre projet est de créer un simulateur de vol.
+Objectifs Spécifiques :
+
+1.Accessoires de Commande :
+
+1.1.Concevoir et construire un joystick ainsi qu'une commande gaz offrant une précision
+et une réactivité optimales, intégrés au simulateur avec une communication fiable et une
+compatibilité logicielle.
+
+2.Châssis sur Mesure :
+
+2.1.Concevoir un châssis robuste en profilé aluminium pour assurer la stabilité et la
+durabilité du simulateur, en veillant à son assemblage solide pour supporter efficacement les
+accessoires de commande.
+
 
 # Cahier des Charges
 
@@ -34,7 +53,9 @@ L'objectif de notre projet est de créer un simulateur de vol.
 Inspirations : 
 
 ![image d'inspiration](images/joystick_inspiration_copy.png)
-
+Thrustmaster HOTAS Warthog™ Joystick
+    
+    
     1.b commandes de gaz : 
 
             detection de mouvements axe horizontal avec capteurs à effets hall
@@ -44,7 +65,7 @@ Inspirations :
 Inspirations :
 
 ![image d'inspiration](images/manettes_de_gaz.jpg)
-
+Thrustmaster HOTAS Warthog™ Dual Throttle
 
 
 
