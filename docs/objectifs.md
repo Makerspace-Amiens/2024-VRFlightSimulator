@@ -10,11 +10,11 @@ title: Objectifs du projet
 
 ## Contexte du Projet
 
-Dans le cadre de notre projet de 3ème année au sein de l'école d'ingénieur UniLaSalle Amiens, 75h sont dédiées à la réalisation d'un projet permettant de mettre en œuvre et approfondir différentes connaissances acquises durant les années précédentes dans des domaines techniques tels que l'électronique, la modélisation ou encore la programmation mais également de développer des compétences personnelles tels que la gestion d'équipe ou le coworking.
+Dans le cadre de notre projet de 3ème année au sein de l'école d'ingénieur UniLaSalle Amiens, 75h sont dédiées à la réalisation d'un projet permettant de mettre en œuvre et approfondir différentes connaissances acquises durant les années précédentes dans des domaines techniques tels que l'électronique, la modélisation ou encore la programmation mais également de développer des compétences personnelles tels que la gestion d'équipe ou le coworking
 
-Certains membres de notre équipe ayant réalisé dans le cadre du projet d'Innovation Technologique et Eco-Concéption durant notre seconde année de cycle préparatoire, un volant type F1 fonctionnel dédié à l'utilisation en Sim Racing. Nous avons décidés de nous lancer une fois de plus dans la domaine de la simulation avec la réalisation d'un simulateur de vol. 
+Certains membres de notre équipe ayant réalisé dans le cadre du projet d'Innovation Technologique et Eco-Concéption durant notre seconde année de cycle préparatoire, un volant type F1 fonctionnel dédié à l'utilisation en Sim Racing. Nous avons décidés de nous lancer une fois de plus dans la domaine de la simulation avec la réalisation d'un simulateur de vol
 
-Un projet similaire ayant été abandonné il y'a quelques années, le choix de ce projet a été d'autant plus motivant dans sa concrétisation tout en utilisant les nouvelles technologies qui sont aujourd'hui à notre disposition. C'est pourquoi nous nous sommes attardés sur la création d'un simulateur d'avion de chasse utilisable en Réalité Virtuelle.
+Un projet similaire ayant été abandonné il y'a quelques années, le choix de ce projet a été d'autant plus motivant dans sa concrétisation tout en utilisant les nouvelles technologies qui sont aujourd'hui à notre disposition. C'est pourquoi nous nous sommes attardés sur la création d'un simulateur d'avion de chasse utilisable en Réalité Virtuelle
 
 
 ## Objectifs du Projet
