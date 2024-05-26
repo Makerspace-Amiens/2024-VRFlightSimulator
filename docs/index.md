@@ -16,7 +16,7 @@ Notre projet consiste à créer de A à Z des commandes de vol utilisables sur o
 
 ## Poster
 
-Ici vous publierez le poster de votre projet.
+![poster](images/poster_jdp.jpg)
 
 ## ![modélisation de la base du joystick](images/poster.jpg)
 
