@@ -40,14 +40,14 @@ accessoires de commande.
 
 1. Spécifications Techniques des accessoires de commande :
 
-1.a Joystick :
+2. Joystick :
 
--Détection de mouvements avec capteurs a effets hall
--Boutons programmables
--Hat switch
--D pad
--Gachette
--Corps et base imprimés en 3D 
+ -Détection de mouvements avec capteurs a effets hall
+ -Boutons programmables
+ -Hat switch
+ -D pad
+ -Gachette
+ -Corps et base imprimés en 3D 
 
 
 Inspirations : 
@@ -56,11 +56,11 @@ Inspirations :
 
 Thrustmaster HOTAS Warthog™ Joystick
     
-1.b commandes de gaz : 
+3. commandes de gaz : 
 
--detection de mouvements axe horizontal avec capteurs à effets hall
--boutons programmables
--retro éclairage boutons 
+ -detection de mouvements axe horizontal avec capteurs à effets hall
+ -boutons programmables
+ -retro éclairage boutons 
 
 Inspirations :
 
