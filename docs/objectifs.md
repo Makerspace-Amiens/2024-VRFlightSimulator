@@ -4,8 +4,6 @@ nav_order: 3
 title: Objectifs du projet
 ---
 
-# Introduction
-
 
 
 ## Contexte du Projet
@@ -59,7 +57,7 @@ Inspirations :
 
 ![image d'inspiration](images/joystick_inspiration_copy.png)
 
-Thrustmaster HOTAS Warthog™ Joystick
+*Thrustmaster HOTAS Warthog™ Joystick*
     
 1.2 commandes de gaz : 
 
@@ -73,7 +71,7 @@ Inspirations :
 
 ![image d'inspiration](images/manettes_de_gaz.jpg)
 
-Thrustmaster HOTAS Warthog™ Dual Throttle
+*Thrustmaster HOTAS Warthog™ Dual Throttle*
 
 
 
