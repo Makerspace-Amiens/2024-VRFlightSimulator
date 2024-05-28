@@ -24,7 +24,7 @@ Pour la mesure des mouvements de nos commandes, nous avons choisi d'utiliser des
 •	**Durée de Vie Allongée** : La nature sans contact de ces capteurs prolonge leur durée de vie comparée aux potentiomètres.
 
 
-![image d'inspiration](images/capteurs_projet_I3.png)
+![image d'inspiration](images/capteurs_projet_I3.jpg)
 *Capteur à effet Hall AS5600*
 
 
@@ -41,7 +41,7 @@ Pour assurer une fluidité optimale lors de l'utilisation du joystick et de la c
 •	**Fluidité de Mouvement** : Les roulements 608ZZ offrent une résistance minimale, assurant des mouvements fluides et précis.
 
 
-![image d'inspiration](images/roulement.png)
+![image d'inspiration](images/roulement.jpg)
 *Roulement 608zz*
 
 
@@ -104,7 +104,7 @@ Pour la partie électronique programmable, nous avons opté pour une carte Ardui
 •	**Compatibilité** : Sa compatibilité avec divers périphériques d'interfaçage répond parfaitement à nos besoins techniques.
 
 
-![image d'inspiration](images/arduino.png)
+![image d'inspiration](images/arduino.jpg)
 *Arduino Pro Micro*
 
 
