@@ -42,15 +42,19 @@ accessoires de commande.
 
   -Détection de mouvements avec capteurs a effets hall 
  
-  -Boutons programmables
+  -Trois boutons poussoirs
  
-  -Hat switch
+  -Hat switch 
  
-  -D pad
+  -mini joystick
  
   -Gachette
  
   -Corps et base imprimés en 3D 
+
+  -interrupteur à bascule
+
+  
 
 
 Inspirations : 
@@ -63,9 +67,13 @@ Inspirations :
 
   -detection de mouvements axe horizontal avec capteurs à effets hall
  
-  -boutons programmables
+  -deux boutons poussoirs
+
+  -deux encodeurs rotatifs
  
-  -retro éclairage boutons 
+  -un mini joystick 
+
+  -Six interrupteurs à bascule
 
 Inspirations :
 

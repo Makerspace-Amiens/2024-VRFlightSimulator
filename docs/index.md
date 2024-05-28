@@ -18,14 +18,6 @@ Notre projet consiste à créer de A à Z des commandes de vol utilisables sur o
 
 ![poster](images/poster_jdp.jpg)
 
-## ![modélisation de la base du joystick](images/poster.jpg)
-
-<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
-
-<model-viewer src="images/joystick_prototype_v3 copy.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="images/poster copy.webp" shadow-intensity="1">
-   
-</model-viewer>
-
 
 
 
