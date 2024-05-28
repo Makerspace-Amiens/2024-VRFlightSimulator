@@ -61,7 +61,7 @@ Le retour de force dans notre joystick est conçu pour simuler la résistance re
 
 
 ![image d'inspiration](images/mecanisme_final.png)
-
+*Système de retour de force final*
 
 
 
