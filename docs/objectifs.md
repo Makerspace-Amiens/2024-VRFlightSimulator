@@ -51,7 +51,7 @@ accessoires de commande.
 
 ## 2. Spécifications Techniques des accessoires de commande :
 
-### 1.1 Joystick :
+### 2.1 Joystick :
 
   - Détection de mouvements avec capteurs à effets hall 
   - Trois boutons poussoirs
@@ -68,7 +68,7 @@ accessoires de commande.
 *Thrustmaster HOTAS Warthog™ Joystick*
     
 
-### 1.2 commandes de gaz : 
+### 2.2 commandes de gaz : 
 
   - Détection de mouvements avec capteurs à effets hall
   - Deux boutons poussoirs
