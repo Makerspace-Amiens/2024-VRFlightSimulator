@@ -18,15 +18,15 @@ Un projet similaire ayant été abandonné il y'a quelques années, le choix de 
 
 Concevoir, construire et mettre en œuvre un simulateur de vol d'avion de chasse réaliste et immersif utilisable en réalité virtuelle, offrant une expérience utilisateur hautement satisfaisante.
 
-**Objectifs Spécifiques :**
+## Objectifs Spécifiques :
 
-1. Accessoires de Commande :
+### 1. Accessoires de Commande :
 
 Concevoir et construire un joystick ainsi qu'une commande gaz offrant une précision
 et une réactivité optimales, intégrés au simulateur avec une communication fiable et une
 compatibilité logicielle.
 
-2. Châssis sur Mesure :
+### 2. Châssis sur Mesure :
 
 Concevoir un châssis robuste en profilé aluminium pour assurer la stabilité et la
 durabilité du simulateur, en veillant à son assemblage solide pour supporter efficacement les
