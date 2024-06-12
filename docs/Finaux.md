@@ -26,4 +26,4 @@ nav_order: 6
 
 # Gameplay
 
-<video src="images\35ECA7B0-4684-47F7-8B3C-D147379B4D0A (1).mov" controls title="Title"  style="width: 100%;"></video>
+<video src="images\gameplay.mp4" controls title="Title"  style="width: 100%;"></video>
