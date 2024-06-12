@@ -87,5 +87,8 @@ Afin de procéder au montage final, nous avons effectuer les découpes et gravur
 
 ![cmd gaz 9](..\images\IMG_4200.jpg)
 
-<video src="..\images\IMG_4100.mov" controls title="Title"  style="width: 100%;"></video>
+*Face du boitier découpée au laser*
 
+<video src="..\images\decoupe.mp4" controls title="Title"  style="width: 100%;"></video>
+
+*Découpe laser de la partie supérieure du boitier*
