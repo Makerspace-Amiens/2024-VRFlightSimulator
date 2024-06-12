@@ -12,7 +12,7 @@ nav_order: 1
 La conception du joystick a débuté par la modélisation 3D de celui-ci en partant des inspirations citées avant même si beaucoup de modification ont été effectuées par rapport a cette inspirations. Une fois que la modélisation était adaptée a nos idées nous avons commencé à imprimer les prototypes pour avoir un apperçu réel du joystick et commencer a y placer les composants préalablement placés sur la modélisation mais cette foi-ci en réel pour vérifier que toutes les mesures étaient bonnes. Une fois cette étape validé nous avons pu passer à la connection des capteurs sur une carte arduino.
 
 
-## ![modélisation de la base du joystick](..\images\poster.webp)
+## ![modélisation de la base du joystick](..\images\poster.png)
 
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
 
