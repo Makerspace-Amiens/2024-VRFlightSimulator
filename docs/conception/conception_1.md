@@ -51,11 +51,11 @@ Suite au prototypage des capteurs à effet Hall, nous sommes passés par une pha
 
 Afin d'entamer la phase de prototypage du mécanisme du joystick, nous avons imprimé ses différents composants en 3D puis les avons nettoyés.
 
-![Mecanisme_v1.4](..\images\IMG_1001.jpg)
+![Mecanisme_v1.4](..\images\IMG_1001.JPG)
 
 *Composants du mécanisme imprimés en 3D*
 
-![Mecanisme_v1.5](..\images\IMG_1002.jpg)
+![Mecanisme_v1.5](..\images\IMG_1002.JPG)
 
 *Composants du mécanisme imprimés en 3D*
 
