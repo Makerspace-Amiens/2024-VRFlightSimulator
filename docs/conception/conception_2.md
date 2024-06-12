@@ -89,6 +89,6 @@ Afin de procéder au montage final, nous avons effectuer les découpes et gravur
 
 *Face du boitier découpée au laser*
 
-<video src="..\images\decoupe.mp4" controls title="Title"  style="width: 100%;"></video>
+<video src="../images/decoupe.mp4" controls title="Title"  style="width: 100%;"></video>
 
 *Découpe laser de la partie supérieure du boitier*
