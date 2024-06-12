@@ -111,7 +111,17 @@ Nous avons donc amélioré notre mécanisme en renforçant chaque axe par une vi
 
 ### Mécanisme final
 
-Voici le mécanisme du joystick terminé :
+La modélisation terminée, nous sommes passés à l'impression des différents composants du mécanisme final et à son assemblage.
+
+<video src="..\images\20240418_222930.mp4" controls title="Title"  style="width: 100%;"></video>
+
+*Impression 3D de composants du mécanisme*
+
+![Composants mécanisme](..\images\comp_mécanisme.jpg)
+
+*Quelques composants du mécanisme*
+
+**Voici le mécanisme du joystick terminé :**
 
 ***Rendus 3D :***
 
@@ -133,18 +143,78 @@ Voici le mécanisme du joystick terminé :
 
 <model-viewer src="..\images\mécanisme_final_joystick.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="..\images\poster_mécanisme_final_joystick.webp" shadow-intensity="1"></model-viewer>
 
+---
 
+## Poignée du joystick
 
+### Design de la poignée
 
+Possédant dès à présent un mécanisme fonctionnel et répondant à nos attentes, nous nous sommes penchés sur le développement d'une poignée de joystick sur mesure s'inspirant du joystick de l'avion de chasse F-16.
 
+Le développement d'une telle pièce étant délicat d'un point de vue ergonomique, nous nous sommes inspirés d'une modélisation existante du joystick du F-16 afin d'obtenir les différentes dimensions importantes (hauteur/largeur/profondeur/...) dans le but d'éviter une phase de prototypage ergonomique.
 
+![Modélisation existante poignée](..\images\large_display_sidestick_wip_10.png)
 
+*Modélisation existante utilisée dans le développement de notre poignée*
 
+Avant de nous lancer dans la modélisation, nous avons déssinés sur des rendus le design attendu lors de la phase de modélisation de cette poignée. 
 
-//////////////////////////////////////////////////////////////////////////////
+![Design attendu poignée](..\images\IMG_0914.jpg)
 
-**Modélisation de la base du joystick**
+*Design attendu de la poignée*
 
-<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
+![Design attendu poignée](..\images\IMG_0915.jpg)
 
-<model-viewer src="../images/joystick_prototype_v3 copy.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="../images/poster copy.webp" shadow-intensity="1"></model-viewer>
+*Design attendu de la poignée*
+
+![Design attendu poignée](..\images\IMG_0912.jpg)
+
+*Design attendu de la poignée*
+
+### Développement du hat-switch
+
+Notre cahier des charges incluant un hat-switch, nous avons décidé de développer ce dernier sur mesure car la disponibilité et le prix de ce composant étaient un frein dans son intégration au sein de notre joystick. Nous sommes donc passés par une étape de modélisation puis de prototypage.
+
+![Modélisation hat-switch 1](..\images\IMG_1017.PNG)
+
+*Modélisation de la première version du hat_switch*
+
+Après de nombreuses corrections de dimensions, nous sommes parvenus à un résultat satisfaisant. 
+
+![Modélisation hat-switch 1](..\images\IMG_3643.jpg)
+
+*Prototypes de la première version du hat_switch*
+
+Malheureusement, en vue de l'encombrement de notre hat-switch au sein de la poignée, nous avons retravaillé sa conception afin de faciliter son intégration entre les différents composants présents. Outre cela, nous avons développé un circuit imprimé sur-mesure à l'aide du logiciel KiCad.
+
+![Modélisation hat-switch 1](..\images\IMG_1016.PNG)
+
+*Circuit électronique du PCB du hat-switch*
+
+![Modélisation hat-switch 1](..\images\IMG_1018.PNG)
+
+*Modélisation du hat-switch final*
+
+### Modélisation de la poignée
+
+Nous avons ensuite commencé la modélisation de cette poignée avec une méthode de modélisation habituelle : la modélisation solide. Cela nous permet de fixer les différentes contraintes de formes afin de simplifier la suite de la modélisation. Pour information, aucun composant de notre modélisation n'a été tiré de la modélisation existante.
+
+![Modélisation solide poignée](..\images\joystick_2024-Mar-20_09-46-38AM-000_CustomizedView15023258634.png)
+
+*Modélisation solide de la poignée*
+
+![Modélisation solide poignée](..\images\joystick_2024-Mar-20_09-47-25AM-000_CustomizedView14068782543.png)
+
+*Modélisation solide de la poignée*
+
+Cette première étape de modélisation nous a permis de passer à une seconde méthode de modélisation : la modélisation surfacique. Cette méthode étant très compliquée à prendre en main, nous avons rencontré de nombreuses difficultés dans son utilisation.
+Après plus d'une trentaine de prototypes de modélisation, nous avons réussi à aboutir à une modélisation convenable de la poignée où nous avons eu l'occasion d'intégrer le système de gâchette ainsi que les différents composants électroniques que nous avons fixés dans notre cahier des charges.
+
+![Modélisation poignée finale](..\images\Poignée_2024-Jun-10_01-12-52PM-000_CustomizedView52016890750.png)
+
+*Modélisation finale de la poignée*
+
+![Modélisation poignée finale](..\images\0267eb1f-cb2b-4092-9662-71757f675998.PNG)
+
+*Modélisation finale de la poignée*
+
