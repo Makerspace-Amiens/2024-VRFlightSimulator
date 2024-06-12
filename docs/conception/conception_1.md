@@ -218,12 +218,23 @@ Après plus d'une trentaine de prototypes de modélisation, nous avons réussi �
 
 *Modélisation finale de la poignée*
 
+Une fois de plus, nous avons imprimé et nettoyé les différents composants de la poignée afin de procéder à son montage.
+
+<video src="..\images\poignée-droite.mp4" controls title="Title"  style="width: 100%;"></video>
+
+*Impression 3D de la partie droite de la poignée*
+
+![Poignée joystick](..\images\IMG_4007.jpg)
+
+*Parties latérales de la poignée avant et après nettoyage*
+
 ***Vidéo 3D du montage :***
 
 <video src="..\images\Vidéo-montage-poignée-joystick.mp4" controls title="Title"  style="width: 100%;"></video>
 
-***Model 3D du mécanisme :***
+***Model 3D du joystick :***
 
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
 
 <model-viewer src="..\images\poignée_finale.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="..\images\poster_poignée_finale.webp" shadow-intensity="1"></model-viewer>
+
