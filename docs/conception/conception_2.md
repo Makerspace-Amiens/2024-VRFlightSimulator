@@ -51,5 +51,41 @@ Une fois les poignée et leur mécanisme terminés, nous avons développé un bo
 
 *Intégration des poignées et du mécanisme dans le boitier*
 
+Pour finir, nous avons intégré le reste des composants électroniques et développés deux encoders caps pour les encodeurs rotatifs.
+
 **Modélisation terminée :**
+
+![cmd gaz 5](..\images\proto_1_2024-Jun-10_06-38-26PM-000_CustomizedView9001261200.png)
+
+## Impression des composants
+
+La modélisation achevée, nous sommes passés à la phase d'impression des composants afin de procéder au montage de la commande.
+
+<video src="..\images\gaz_droit.mp4" controls title="Title"  style="width: 100%;"></video>
+
+*Impression d'une partie de la poignée droite de la commande de gaz*
+
+## Câblage des composants électroniques
+
+Suite à l'impression des composants, nous sommes passés au câblage des différents composants électroniques présents dans la commande de gaz. De plus, nous avons utilisé le circuit imprimé du joystick afin de connecter nos composants à la carte Arduino Pro Micro.
+
+![cmd gaz 6](..\images\IMG_4090.jpg)
+
+*Photo du câblage de la poignée gauche*
+
+![cmd gaz 7](..\images\IMG_4091.jpg)
+
+*Photo des deux poignées cablées*
+
+Ne possédant plus de connecteurs JST, nous avons soudé les composants directement sur le PCB.
+
+![cmd gaz 8](..\images\IMG_4101.jpg)
+
+## Découpe laser
+
+Afin de procéder au montage final, nous avons effectuer les découpes et gravures nécessaires au laser avec des plaques d'Acrylique 3 mm.
+
+![cmd gaz 9](..\images\IMG_4200.jpg)
+
+<video src="..\images\IMG_4100.mov" controls title="Title"  style="width: 100%;"></video>
 
