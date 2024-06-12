@@ -16,7 +16,7 @@ La conception du joystick a débuté par la modélisation 3D de celui-ci en part
 
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
 
-<model-viewer src="images/joystick_prototype_v3 copy.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="../images/poster copy.webp" shadow-intensity="1"></model-viewer>
+<model-viewer src="../images/joystick_prototype_v3 copy.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="../images/poster copy.webp" shadow-intensity="1"></model-viewer>
 
 ## 2 test programmation des capteurs.
 
