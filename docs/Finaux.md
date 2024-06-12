@@ -10,7 +10,7 @@ nav_order: 6
 
 *Rendu 3D du joystick*
 
-<video src="images\IMG_4084(1).mp4" controls title="Title"  style="width: 100%;"></video>
+<video src="images/joystick(1).mp4" controls title="Title"  style="width: 100%;"></video>
 
 *Rendu réel du joystick*
 
