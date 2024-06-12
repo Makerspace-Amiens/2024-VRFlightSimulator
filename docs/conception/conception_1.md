@@ -101,6 +101,38 @@ Nous avons donc amélioré notre mécanisme en renforçant chaque axe par une vi
 
 *Nouvel axe du mécanisme renforcé*
 
+![Nouvel axe du mécanisme 2](..\images\Analyse_de_section_meca_v2.PNG)
+
+*Analyse de section du renforcement de l'axe*
+
+![Evolution mécanisme](..\images\IMG_1005.JPG)
+
+*Evolution du mécanisme*
+
+### Mécanisme final
+
+Voici le mécanisme du joystick terminé :
+
+***Rendus 3D :***
+
+![Mécanisme final 1](..\images\joystick_base_3_2024-Jun-10_01-42-35PM-000_CustomizedView2178541344-Copie.png)
+
+*Mécanisme final du joystick*
+
+![Mécanisme final 2](..\images\joystick_base_3_2024-Jun-10_01-43-08PM-000_CustomizedView54842374853.png)
+
+*Mécanisme final du joystick*
+
+***Vidéo 3D du montage :***
+
+<video src="..\images\Vidéo-montage-mecanisme-joystick.mp4" controls title="Title"  style="width: 100%;"></video>
+
+***Model 3D du mécanisme :***
+
+<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
+
+<model-viewer src="..\images\mécanisme_final_joystick.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="..\images\poster_mécanisme_final_joystick.webp" shadow-intensity="1"></model-viewer>
+
 
 
 
