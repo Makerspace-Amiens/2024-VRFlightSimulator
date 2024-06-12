@@ -218,3 +218,12 @@ Après plus d'une trentaine de prototypes de modélisation, nous avons réussi �
 
 *Modélisation finale de la poignée*
 
+***Vidéo 3D du montage :***
+
+<video src="..\images\Vidéo-montage-poignée-joystick.mp4" controls title="Title"  style="width: 100%;"></video>
+
+***Model 3D du mécanisme :***
+
+<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
+
+<model-viewer src="..\images\poignée_finale.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="..\images\poster_poignée_finale.webp" shadow-intensity="1"></model-viewer>
