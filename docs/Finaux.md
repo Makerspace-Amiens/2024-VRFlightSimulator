@@ -20,7 +20,7 @@ nav_order: 6
 
 *Rendu 3D de la commande de gaz*
 
-<video src="images\vidéo -20240606-083345-a4bb1f66(1).mp4" controls title="Title"  style="width: 100%;"></video>
+<video src="images/cmd_de_gaz.mp4" controls title="Title"  style="width: 100%;"></video>
 
 *Rendu réel de la commande de gaz*
 
